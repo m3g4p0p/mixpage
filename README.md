@@ -1,8 +1,2 @@
-<style>
-  body {
-    color: white;
-    background-color: purple;
-  }
-</style>
-
+<link rel="stylesheet" href="style.css" />
 # mixpage
